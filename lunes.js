@@ -1,1 +1,4 @@
-hola rama
+function name(params) {
+    
+    hola rama
+}

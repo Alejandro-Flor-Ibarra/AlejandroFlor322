@@ -1,1 +1,3 @@
-hola Rama
+function Technos(params) {
+    
+}
